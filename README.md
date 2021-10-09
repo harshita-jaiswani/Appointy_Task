@@ -1,5 +1,7 @@
 # Appointy_Task
 
+This ReadMe File includes Screenshot of Postman and MongoDb Atlas used in the project.
+
 Post request is sent to insert the user.
 
 ![Screenshot 2021-10-09 at 9 49 23 PM](https://user-images.githubusercontent.com/75208173/136667196-12443c6f-0943-4a42-a5de-e6c339b7eb4e.png)
